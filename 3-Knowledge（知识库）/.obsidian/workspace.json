@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "T_工业技术/TP_自动化技术、计算机技术/thoughtweaver pilot.md",
+                "file": "Knowledge文件夹说明.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "thoughtweaver pilot"
+              "title": "Knowledge文件夹说明"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "T_工业技术/TP_自动化技术、计算机技术/thoughtweaver pilot.md",
+                "file": "Knowledge文件夹说明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "thoughtweaver pilot 的反向链接列表"
+              "title": "Knowledge文件夹说明 的反向链接列表"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "T_工业技术/TP_自动化技术、计算机技术/thoughtweaver pilot.md",
+                "file": "Knowledge文件夹说明.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "thoughtweaver pilot 的大纲"
+              "title": "Knowledge文件夹说明 的大纲"
             }
           }
         ],
@@ -184,15 +184,15 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "4524c21019b6f929",
+  "active": "f0b5880b19eead15",
   "lastOpenFiles": [
+    "T_工业技术/TP_自动化技术、计算机技术/thoughtweaver pilot.md",
     "附件 copy",
     "Knowledge文件夹说明.md",
     "G_文化、科学、教育、体育/G2_信息与知识传播/中国图书馆分类法.md",
     "T_工业技术/TP_自动化技术、计算机技术",
     "T_工业技术/TN_电子技术、通信技术",
     "模版/KG概念模板.md",
-    "T_工业技术/TP_自动化技术、计算机技术/thoughtweaver pilot.md",
     "附件",
     "模版/KG关系模板.md",
     "模版"
