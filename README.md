@@ -33,7 +33,7 @@
 
 - [Information（项目与任务）文件夹说明](./1-Information（项目与任务）/Information文件夹说明.md)
     - 你将通过这篇文档了解这个文件夹如何存放有时效性的、与具体任务相关的过程性材料。
-- [Resource（参考资料）文件夹说明](./2-Resource（参考资料）/Resource文件夹说明.md)
+- [Resource（参考资料）文件夹说明](./2-Resource（参考资源）/Resource文件夹说明.md)
     - 你将通过这篇文档了解这个文件夹如何存放需要长期参考、反复查阅的“数字原材料”。
 - [Knowledge（Obsidian仓库）文件夹说明](./3-Knowledge（知识库）/Knowledge文件夹说明.md)
     - 这里是本体系的核心。你将在这里了解到如何使用 `thoughtweaver-pilot` 插件，极大地提升你创建和关联知识笔记的效率。同时，学习知识的存放结构（中图法分类），让你的笔记更加有序。
