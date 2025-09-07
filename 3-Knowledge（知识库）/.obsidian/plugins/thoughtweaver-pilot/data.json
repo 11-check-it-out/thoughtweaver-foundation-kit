@@ -1,0 +1,31 @@
+{
+  "aiProvider": "gemini",
+  "geminiApiKey": "",
+  "deepseekApiKey": "",
+  "conceptTemplatePath": "模版/KG概念模板.md",
+  "relationTemplatePath": "模版/KG关系模板.md",
+  "newNoteLocationMode": "current",
+  "defaultFolder": "/",
+  "parentKey": "parent",
+  "inheritanceMode": "full",
+  "autoCreateConcepts": true,
+  "autoLinkOnCreation": true,
+  "relationLinkConfigs": {
+    "影响": {
+      "headSection": "影响",
+      "tailSection": "影响因素"
+    },
+    "对比": {
+      "headSection": "对比",
+      "tailSection": "对比"
+    },
+    "关联": {
+      "headSection": "关联",
+      "tailSection": "关联"
+    },
+    "应用": {
+      "headSection": "应用",
+      "tailSection": "应用"
+    }
+  }
+}

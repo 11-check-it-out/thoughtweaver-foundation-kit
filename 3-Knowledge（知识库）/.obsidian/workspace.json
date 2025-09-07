@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge文件夹说明.md",
+                "file": "G_文化、科学、教育、体育/G2_信息与知识传播/中国图书馆分类法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knowledge文件夹说明"
+              "title": "中国图书馆分类法"
+            }
+          },
+          {
+            "id": "f0b5880b19eead15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "T_工业技术/TP_自动化技术、计算机技术/thoughtweaver pilot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "thoughtweaver pilot"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Knowledge文件夹说明.md",
+                "file": "T_工业技术/TP_自动化技术、计算机技术/thoughtweaver pilot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Knowledge文件夹说明 的反向链接列表"
+              "title": "thoughtweaver pilot 的反向链接列表"
             }
           },
           {
@@ -142,21 +157,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Knowledge文件夹说明.md",
+                "file": "T_工业技术/TP_自动化技术、计算机技术/thoughtweaver pilot.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Knowledge文件夹说明 的大纲"
+              "title": "thoughtweaver pilot 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,5 +185,16 @@
     }
   },
   "active": "4524c21019b6f929",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "附件 copy",
+    "Knowledge文件夹说明.md",
+    "G_文化、科学、教育、体育/G2_信息与知识传播/中国图书馆分类法.md",
+    "T_工业技术/TP_自动化技术、计算机技术",
+    "T_工业技术/TN_电子技术、通信技术",
+    "模版/KG概念模板.md",
+    "T_工业技术/TP_自动化技术、计算机技术/thoughtweaver pilot.md",
+    "附件",
+    "模版/KG关系模板.md",
+    "模版"
+  ]
 }
